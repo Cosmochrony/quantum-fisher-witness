@@ -1,0 +1,11 @@
+code/*_cache/
+code/__pycache__/
+code/*.log
+out/*.aux
+out/*.log
+out/*.out
+out/*.synctex.gz
+out/*.toc
+out/*.blg
+out/*.fls
+.DS_Store
