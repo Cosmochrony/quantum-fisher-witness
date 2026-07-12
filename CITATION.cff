@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you cite this work, please use the metadata from this file."
+title: "Quantum Fisher Information as a Spectral Entanglement Witness: the Projective Stability Gap and the Origin of Scale-Free Growth"
+type: software
+authors:
+  - family-names: "Beau"
+    given-names: "Jérôme"
+repository-code: "https://github.com/Cosmochrony/quantum-fisher-witness"
+url: "https://cosmochrony.org/science/condensed-matter/quantum-fisher/"
+version: "1.0.1"
+doi: "10.5281/zenodo.21001565"
+license: "CC-BY-4.0"
+preferred-citation:
+  type: article
+  title: "Quantum Fisher Information as a Spectral Entanglement Witness: the Projective Stability Gap and the Origin of Scale-Free Growth"
+  authors:
+    - family-names: "Beau"
+      given-names: "Jérôme"
+  year: 2026
+  doi: "10.5281/zenodo.21001565"
+  url: "https://doi.org/10.5281/zenodo.21001565"
