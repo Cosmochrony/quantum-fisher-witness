@@ -4,7 +4,7 @@ Self-contained (builds the Heisenberg Cayley graph itself). Runs the bounded-flu
 BI relaxation flow
 
     phi'_i = - sqrt(max(0, 1 - S_i)) * (L_Pi phi)_i,
-    S_i    = (1/c_BI^2) sum_{j ~ i} (phi_i - phi_j)^2,   L_Pi = I - A/4,
+    S_i    = (1/c_chi^2) sum_{j ~ i} (phi_i - phi_j)^2,   L_Pi = I - A/4,
 
 on Cay(Heis_3(Z/qZ)) for several system sizes, and reads the effective QFI
 exponent alpha_eff from the relaxation return C(t) = <phi(0), phi(t)> / ||phi(0)||^2
