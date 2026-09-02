@@ -1,5 +1,13 @@
 # Quantum Fisher Information as a Spectral Entanglement Witness
 
+> **Withdrawn (2026-07-27).** This manuscript is closed and not under further development. Its central inference —
+> from the Heisenberg-graph density of states to scale-free quantum Fisher information — did not survive an
+> independent analytical and numerical counter-review, and the spectral core that remains correct is prior art
+> (Terras et al. 2003; Kokhas–Suvorov 1999 / Gretete 2011; Bass–Guivarc'h / Varopoulos). See
+> [`REFEREE-REPORT-ACADEMIA-QUANTUM.md`](REFEREE-REPORT-ACADEMIA-QUANTUM.md),
+> [`SPECTRAL-PAPER-SCOPING.md`](SPECTRAL-PAPER-SCOPING.md), and [`STATUS.md`](STATUS.md). The "Result in one
+> paragraph" below is retained as a record of the original claim, not as a validated result.
+
 Source of the note *Quantum Fisher Information as a Spectral Entanglement Witness:
 the Projective Stability Gap and the Origin of Scale-Free Growth* (J. Beau, 2026).
 
@@ -73,8 +81,16 @@ so that interrupted runs resume.
 
 ## Status
 
-Draft / preprint in preparation. Not yet deposited on Zenodo (see `zenodo.json`). The thermal closure is derived;
-the Born-Infeld softening is numerically confirmed and size-stable, with its asymptotic exponent open.
+**Withdrawn / closed** following pre-submission counter-review (2026-07-27). Not submitted to *Academia Quantum*;
+the one-submission waiver was not consumed.
+
+A Zenodo record exists from before the review: version **1.0.1**, concept DOI **10.5281/zenodo.21001565** (see
+`zenodo.json`) — the earlier "not yet deposited" note was incorrect. Zenodo records are permanent and are not deleted
+here; whether to issue a withdrawal note / tombstone version on that DOI is a separate decision and has **not** been
+done.
+
+The scripts, the referee report and the scoping map are preserved as the archived record of the reasoning. See
+[`STATUS.md`](STATUS.md) for the full rationale and the conditions under which any part could be reopened.
 
 ## Acknowledgements
 
